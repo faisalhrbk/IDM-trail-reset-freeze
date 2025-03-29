@@ -1,4 +1,4 @@
-![IDM Logo](https://upload.wikimedia.org/wikipedia/commons/3/36/Internet_Download_Manager_Logo.png)
+
 
 # IDM Trial Reset & Freeze (Lifetime Activation)
 
