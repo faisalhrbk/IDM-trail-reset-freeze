@@ -8,10 +8,10 @@
 ::
 ::   IDM Activation Script (IAS)
 ::
-::   Homepages: https://github.com/lstprjct/IDM-Activation-Script
-::              https://t.me/ModByPiash/5
+::   Homepages: https://github.comfaisalhrbk
+::        
 ::
-::       Telegram: @Stripe_op
+::      
 ::
 ::============================================================================
 
@@ -373,7 +373,7 @@ echo:
 call :_color2 %_White% "             " %_Green% "Created by faisal h."
 echo:            ___________________________________________________ 
 echo:
-echo:               LinkedIn: @faisalhrbk
+echo:               LinkedIn: @faisalrbk
 echo:               Github: https://github.com/faisalhrbk
 echo:            ___________________________________________________ 
 echo:                                                               
