@@ -23,13 +23,13 @@ Before running the script, make sure you have **IDM installed** on your system. 
 
 ## 🔧 How to Use
 Follow these steps carefully to reset & freeze your IDM trial:
+ **Requires Internet Connection**
 
 1. **Download** the `ias.cmd` file from this repository.
 2. **Right-click** on `ias.cmd` and select **Run as administrator**.
 3. **Follow the simple steps**  on `ias.cmd` which **suits you**
-4. **Wait** for the script to complete its process.
-5. **Restart your computer** for changes to take effect.
-6. **Enjoy IDM for a lifetime** without any expiry! 🚀
+4. **Wait** for the script to complete its process takes less than 30 sec .
+5. **Enjoy IDM for a lifetime** without any expiry! 🚀
 
 ---
 
